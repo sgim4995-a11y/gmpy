@@ -22,6 +22,10 @@ elif 70>num>=60:
 else:
     print("F")
 
+
+
+
+
 # num = int(input("숫자를 입력 >> ")) #str타입
 # ### 짝수인지,홀수인지 출력하시오.
 # if num%2==0:
